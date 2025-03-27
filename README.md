@@ -3,7 +3,7 @@ here i trained the ML Model for classifying the cat and dog and predicting the i
 # Cat-Dog Classification using Support Vector Machine (SVM)
 
 
-## Data Set
+# Data Set
 Dataset :- https://www.kaggle.com/c/dogs-vs-cats/data
 
 ## Dataset Information
