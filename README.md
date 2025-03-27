@@ -2,6 +2,10 @@
 here i trained the ML Model for classifying the cat and dog and predicting the image 
 # Cat-Dog Classification using Support Vector Machine (SVM)
 
+
+## Data Set
+Dataset :- https://www.kaggle.com/c/dogs-vs-cats/data
+
 ## Dataset Information
 The dataset consists of images of cats and dogs stored in the following directories:
 - **Cats:** `D:/april internship/Task 3/dogvscat/train/0`
